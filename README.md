@@ -29,7 +29,7 @@
 
 ## 📌 Hobbies  
 
-Apart from coding, I like to <s>touch the grass</s> do lots of things!  <br>
+Apart from coding, I like to <s>touch grass</s> do lots of things!  <br>
 
 
 🏃 Running, hikes and trails. ⛰️  
