@@ -24,7 +24,6 @@
 ⚙️ I like working on big scalable systems or for gamejam's sake, rapid prototypes.  
 ⏱️ I'm thinking of creating Game developpment tools in the near future, especially for Unity.
 
-<br>
 
 ---
 
