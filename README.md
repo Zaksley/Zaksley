@@ -41,7 +41,7 @@ Apart from coding, I like to <s>touch grass</s> do lots of things!  <br>
 ## 📫 Contact  
 
   
-📍 Based in Montreal.   
+📍 Based in Bordeaux.   
 🌐 [Portfolio](https://www.enzo-medina.com)    
 🎮 [Games & Prototypes](https://zaksley.itch.io/)  
 📬 [Linkedin](https://www.linkedin.com/in/medina-enzo/)
